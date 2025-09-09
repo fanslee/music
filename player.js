@@ -1,4 +1,4 @@
-let media="https://github.com/fanslee/music/media/"
+let media="/media/"
 
 // Cache references to DOM elements.
 let elms = ['track','artist', 'timer', 'duration','post', 'playBtn', 'pauseBtn', 'prevBtn', 'nextBtn', 'playlistBtn', 'postBtn', 'waveBtn', 'volumeBtn', 'progress', 'progressBar','waveCanvas', 'loading', 'playlist', 'list', 'volume', 'barEmpty', 'barFull', 'sliderBtn'];
@@ -9,7 +9,6 @@ elms.forEach(function(elm) {
 let player;
 let playNum=0;
 let requestJson="memp.json"
-// let requestJson="https://music.fanslee.com/docs/memp.json"
 
 let request=new XMLHttpRequest();
 request.open("GET",requestJson);
@@ -498,3 +497,4 @@ document.addEventListener('keyup', function(event) {
 });
 
 console.log("\n %c Gmemp v3.4.8 %c https://github.com/Meekdai/Gmemp \n", "color: #fff; background-image: linear-gradient(90deg, rgb(47, 172, 178) 0%, rgb(45, 190, 96) 100%); padding:5px 1px;", "background-image: linear-gradient(90deg, rgb(45, 190, 96) 0%, rgb(255, 255, 255) 100%); padding:5px 0;");
+
