@@ -10,7 +10,7 @@
     {
         "title": "不谓侠-邓晃晃", 
         "artist": "", 
-        "pic": "bg.jpg", 
+        "pic": "", 
         "mp3": "不谓侠-邓晃晃.mp3", 
         "date": "", 
         "article": "<p></p>",
@@ -18,7 +18,7 @@
     {
         "title": "不谓侠（电吉他solo）", 
         "artist": "", 
-        "pic": "bg.jpg", 
+        "pic": "", 
         "mp3": "不谓侠（电吉他solo）.mp3", 
         "date": "", 
         "article": "<p></p>",
@@ -26,7 +26,7 @@
     {
         "title": "关山酒 DJ版（抖音热门版）", 
         "artist": "", 
-        "pic": "bg.jpg", 
+        "pic": "", 
         "mp3": "关山酒 DJ版（抖音热门版）.mp3", 
         "date": "", 
         "article": "<p></p>",
@@ -34,7 +34,7 @@
     {
         "title": "半壶纱(DJ名龙版)", 
         "artist": "", 
-        "pic": "bg.jpg", 
+        "pic": "", 
         "mp3": "半壶纱(DJ名龙版).mp3", 
         "date": "", 
         "article": "<p></p>",
@@ -42,12 +42,13 @@
      {
         "title": "半壶纱DJ版 （抖音热播）", 
         "artist": "", 
-        "pic": "bg.jpg", 
+        "pic": "", 
         "mp3": "半壶纱DJ版 （抖音热播）.mp3", 
         "date": "", 
         "article": "<p></p>",
     }  
 ]
+
 
 
 
