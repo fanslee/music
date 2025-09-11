@@ -5,7 +5,7 @@
         "pic": "bg.jpg", 
         "mp3": "一笑江湖 (DJ弹鼓版).flac", 
         "date": "", 
-        "article": "<p></p>",
+        "article": "<p></p>"
     },
     {
         "title": "不谓侠-邓晃晃", 
@@ -13,7 +13,7 @@
         "pic": "", 
         "mp3": "不谓侠-邓晃晃.mp3", 
         "date": "", 
-        "article": "<p></p>",
+        "article": "<p></p>"
     },
     {
         "title": "不谓侠（电吉他solo）", 
@@ -21,7 +21,7 @@
         "pic": "", 
         "mp3": "不谓侠（电吉他solo）.mp3", 
         "date": "", 
-        "article": "<p></p>",
+        "article": "<p></p>"
     },
     {
         "title": "关山酒 DJ版（抖音热门版）", 
@@ -29,7 +29,7 @@
         "pic": "", 
         "mp3": "关山酒 DJ版（抖音热门版）.mp3", 
         "date": "", 
-        "article": "<p></p>",
+        "article": "<p></p>"
     },  
     {
         "title": "半壶纱(DJ名龙版)", 
@@ -37,17 +37,18 @@
         "pic": "", 
         "mp3": "半壶纱(DJ名龙版).mp3", 
         "date": "", 
-        "article": "<p></p>",
-    }, 
+        "article": "<p></p>"
+    },
      {
         "title": "半壶纱DJ版 （抖音热播）", 
         "artist": "", 
         "pic": "", 
         "mp3": "半壶纱DJ版 （抖音热播）.mp3", 
         "date": "", 
-        "article": "<p></p>",
+        "article": "<p></p>"
     }  
 ]
+
 
 
 
