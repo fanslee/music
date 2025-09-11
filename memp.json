@@ -10,7 +10,7 @@
     {
         "title": "不谓侠-邓晃晃", 
         "artist": "", 
-        "pic": "", 
+        "pic": "bg.jpg", 
         "mp3": "不谓侠-邓晃晃.mp3", 
         "date": "", 
         "article": "<p></p>"
@@ -18,7 +18,7 @@
     {
         "title": "不谓侠（电吉他solo）", 
         "artist": "", 
-        "pic": "", 
+        "pic": "bg.jpg", 
         "mp3": "不谓侠（电吉他solo）.mp3", 
         "date": "", 
         "article": "<p></p>"
@@ -26,7 +26,7 @@
     {
         "title": "关山酒 DJ版（抖音热门版）", 
         "artist": "", 
-        "pic": "", 
+        "pic": "bg.jpg", 
         "mp3": "关山酒 DJ版（抖音热门版）.mp3", 
         "date": "", 
         "article": "<p></p>"
@@ -34,7 +34,7 @@
     {
         "title": "半壶纱(DJ名龙版)", 
         "artist": "", 
-        "pic": "", 
+        "pic": "bg.jpg", 
         "mp3": "半壶纱(DJ名龙版).mp3", 
         "date": "", 
         "article": "<p></p>"
@@ -42,12 +42,197 @@
      {
         "title": "半壶纱DJ版 （抖音热播）", 
         "artist": "", 
-        "pic": "", 
+        "pic": "bg.jpg", 
         "mp3": "半壶纱DJ版 （抖音热播）.mp3", 
         "date": "", 
         "article": "<p></p>"
-    }  
+    },  
+     {
+        "title": "孤城DJ阿卓版-洛先生", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "孤城DJ阿卓版-洛先生.flac", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "忘川彼岸(抖音DJ版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "忘川彼岸(抖音DJ版).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "惊鸿醉 (DJ名龙版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "惊鸿醉 (DJ名龙版).m4a", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "折风渡夜 (DJ名龙抖音加速版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "折风渡夜 (DJ名龙抖音加速版).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "探故知 (DJ炎炎版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "探故知 (DJ炎炎版).m4a", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "探窗（Dj版）", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "探窗（Dj版）.mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "旧梦一场-DJ沈念版-阿悠悠", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "旧梦一场-DJ沈念版-阿悠悠.flac", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "春不晚 (DJ-Siqe版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "春不晚 (DJ-Siqe版).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "春庭雪 (DJ默涵版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "春庭雪 (DJ默涵版).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "沈园外(DJ墨韩Mix版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "沈园外(DJ墨韩Mix版).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "沐泽 - 须尽欢(DJ弹鼓版)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "沐泽 - 须尽欢(DJ弹鼓版).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },  
+     {
+        "title": "清明上河图DJ Candy版-李玉刚DJ Candy", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "清明上河图DJ Candy版-李玉刚DJ Candy.mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    }, 
+         {
+        "title": "游京 (奋斗进行曲)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "游京 (奋斗进行曲).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    }, 
+         {
+        "title": "牵丝戏(DJ亚明版)-不只中二", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "牵丝戏(DJ亚明版)-不只中二.flac", 
+        "date": "", 
+        "article": "<p></p>"
+    },     
+         {
+        "title": "画离弦-海伦（DJ版）", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "画离弦-海伦（DJ版）.mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    }, 
+         {
+        "title": "精卫（DJ阿布 remix）", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "精卫（DJ阿布 remix）.mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },     
+         {
+        "title": "美人画卷(DJ沈念版)-闻人听書", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "美人画卷(DJ沈念版)-闻人听書_.flac", 
+        "date": "", 
+        "article": "<p></p>"
+    },    
+         {
+        "title": "蒋雪儿Snow.J - 燕无歇 (DJ yaha)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "蒋雪儿Snow.J - 燕无歇 (DJ yaha).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    },   
+         {
+        "title": "虞兮叹-DJ沈念", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "虞兮叹-DJ沈念.flac", 
+        "date": "", 
+        "article": "<p></p>"
+    }, 
+         {
+        "title": "西厢寻他(DJ版) - 屏雯", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "西厢寻他(DJ版) - 屏雯.mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    }, 
+         {
+        "title": "谪仙(热搜原版DJ)", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "谪仙(热搜原版DJ).mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    }, 
+         {
+        "title": "赤伶-等什么君（DJ Siqe Edit）", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "赤伶-等什么君（DJ Siqe Edit）.mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    }, 
+         {
+        "title": "赤伶（DJ阿樂版）", 
+        "artist": "", 
+        "pic": "bg.jpg", 
+        "mp3": "赤伶（DJ阿樂版）.mp3", 
+        "date": "", 
+        "article": "<p></p>"
+    }
 ]
+
 
 
 
